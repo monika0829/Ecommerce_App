@@ -27,7 +27,7 @@ This is the frontend of the Ecommerce application built using React. It connects
 ![Login](screenshots/Login.png)
 ---
 ###  Product Page
-![Product](screenshots/products.png)
+![Product](screenshots/Products.png)
 
 ---
 
